@@ -1,11 +1,11 @@
-current directory: /Users/kitayan/share_app/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
-/Users/kitayan/.rbenv/versions/3.0.1/bin/ruby -I /Users/kitayan/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -r ./siteconf20210520-17556-c0oh39.rb extconf.rb
+current directory: /Users/kitayan/room_app/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+/Users/kitayan/.rbenv/versions/3.0.1/bin/ruby -I /Users/kitayan/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -r ./siteconf20210531-68626-d4cenz.rb extconf.rb
 creating Makefile
 
-current directory: /Users/kitayan/share_app/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+current directory: /Users/kitayan/room_app/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\= clean
 
-current directory: /Users/kitayan/share_app/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+current directory: /Users/kitayan/room_app/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\=
 compiling ./libsass/src/ast.cpp
 compiling ./libsass/src/ast2c.cpp
@@ -75,6 +75,6 @@ compiling ./libsass/src/util_string.cpp
 compiling ./libsass/src/values.cpp
 linking shared-object sassc/libsass.bundle
 
-current directory: /Users/kitayan/share_app/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
+current directory: /Users/kitayan/room_app/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20210520-17556-z71a0h/sassc
+/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20210531-68626-xr3pgi/sassc
